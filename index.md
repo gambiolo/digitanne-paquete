@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+### Digitanne is the name of a DIY bike designed as tool for micro agricultural missions. 
 
-You can use the [editor on GitHub](https://github.com/gambiolo/digitanne-paquete/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### We teach farmers how to make their own bikes, how to repair it and how to take care of it... from soldering to coding we teach basic technologic skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Digitanne is also the name of a newsletter that questions technology and agricultural practices. Anything underground from crypto to soil farming or how to build your own algae bioreactor. We are sociologist, anthropologist, biologist, engineers, biohacker, coders, architect, photographer, writers, gardener, explorer, artisans etc... we are transdisciplinarian individuals trying to dismantle all kinds of narratives and to create new ones... 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screen Shot 2021-08-17 at 2 15 01 AM](https://user-images.githubusercontent.com/86488172/129644512-fa296b95-f7f6-4164-877c-bdcb7176ef43.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### in these letter you' ll find:
 
-- Bulleted
-- List
+-DIY printable fanzine to distribute around you
 
-1. Numbered
-2. List
+-podcast stories and itws to download
 
-**Bold** and _Italic_ and `Code` text
+-NFT collectible, crypto critics
 
-[Link](url) and ![Image](src)
-```
+-1 big story per season (4 per year)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Curated music folders (deep-medi/workout/jazz/dance/baroque/bass)
 
-### Jekyll Themes
+-A weekly letter of information 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambiolo/digitanne-paquete/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-many structural and destructural processes
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### in these letters you will not find:
+
+-anti-science or new-age content
+
+-religious believes
+
+-personal opinions
+
+-popular ideas
+
+-corporate incentive
+
+-academic propaganda
+
+-fascist or neoliberal narrative
+
+
+
+
+
+# Cyber middle-age and mestizo crypto-guild
+
+### local and decentralized ways of sharing accurate information within the techno-scene
+
+
+In Cuba, ''El Paquete Semanal'' is a weekly USB key in your mail box, one tera bit of data (films, musics, app, programs, games) is being distributed to 5 millions people via USB keys. The infastructure that holds this system is similar to a cyber-middle-age way of sharing information. We will send 50 USB keys twice a year with curated content from our decentralized autonomous, the cost will depend on your revenues and inheritance
+
+![Screen Shot 2021-08-17 at 4 57 01 PM](https://user-images.githubusercontent.com/86488172/129750123-0ff39437-91ce-4c98-9231-97498149baf5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
