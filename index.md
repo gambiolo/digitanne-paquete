@@ -58,10 +58,8 @@ what you will find in this 30 Gig USB KEY
 - Laboratory advices to grow almost anything (fungi, yeats, algaes etc..)
 - programs and advices to have fun with code (meshnet etc..)
 
-_we allready have teachers on our board receiving this content
 
-
-_currated by yours trully > https://github.com/gambiolo
+more informations on my [creator](https://github.com/gambiolo)
 
 
 
