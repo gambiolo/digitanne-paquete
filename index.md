@@ -22,7 +22,7 @@
 - academic propaganda
 - Californian ideologies
 - fascist nor neoliberal western narrative
-- libertarian survivalist narrative
+- libertarian or survivalist narrative
 
 
 
@@ -32,7 +32,7 @@
 
 El Paquete Digitanne is inspired from the cuban ''El Paquete Semanal'' wich is about 5 million USB keys distributed to cuban households every week. It contents films, musics, app, programs, games, porn etc... 
 
-Instead of subscribing to netflix or watching conspiracy theories video what about you subcribe to our decentralised autonomous organisation and guilds of knowledge. 
+Instead of subscribing to netflix you would subcribe to our decentralised autonomous organisation and guilds of knowledge...we are based in London, Sao Paulo, Hong Kong, Los Angeles, Cairo, Mexico, Tokyo and Shenzen.
 
 
 ![Screen Shot 2021-08-17 at 4 57 01 PM](https://user-images.githubusercontent.com/86488172/129750123-0ff39437-91ce-4c98-9231-97498149baf5.png)
